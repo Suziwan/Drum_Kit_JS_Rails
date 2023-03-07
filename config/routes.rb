@@ -7,4 +7,5 @@ Rails.application.routes.draw do
   get 'english/index'
   get 'french/index'
   get 'portuguese/index'
+  get 'drums/index'
 end
