@@ -1,0 +1,2 @@
+module FrenchHelper
+end
